@@ -20,5 +20,5 @@ if Telur_ada:
     print('Beli 6 butir telur')
 else:
     print('Tidak membeli telur')
-Print('Budi pulang ke rumah')
-Print('Budi menyerahkan hasil belanjanya kepada Ibu')
+print('Budi pulang ke rumah')
+print('Budi menyerahkan hasil belanjanya kepada Ibu')
