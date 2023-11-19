@@ -5,8 +5,20 @@ Semua sintaksis dasar bahasa pemrograman terdiri dari:
 3. Perulangan: mengulang langkah yang sama berkali-kali selama/sampai kondisi terpenuhi
 """
 # Sekuensial
-print('Ibu berkata, "pergi ke toko"')
-print('Budi menjawab, "Baik, apa yang harus saya lakukan di toko?"')
-print('Ibu menjawab, "Beli satu botol susu, dan jika ada telor beli 6"')
-print('Maka Budi berangkat ke toko')
-print('Dan mulai berbelanja')
+print('Ibu memberi perintah, "Beli 1 botol susu. Dan jika ada telur, beli juga 6 butir telur"')
+print('Budi menjawab, "Ok"')
+print('Budi pergi ke toko')
+print('Apakah susu ada?')
+Susu_ada = True
+if Susu_ada:
+    print('Beli 1 botol susu')
+else:
+    print('Tidak membeli susu')
+print('Apakah telur ada?')
+Telur_ada = True
+if Telur_ada:
+    print('Beli 6 butir telur')
+else:
+    print('Tidak membeli telur')
+Print('Budi pulang ke rumah')
+Print('Budi menyerahkan hasil belanjanya kepada Ibu')
