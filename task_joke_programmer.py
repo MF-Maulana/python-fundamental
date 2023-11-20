@@ -1,10 +1,4 @@
-"""
-Semua sintaksis dasar bahasa pemrograman terdiri dari:
-1. Sekuensial: langkah berurutan
-2. Percabangan: langkah melompat jika kondisi terpenuhi
-3. Perulangan: mengulang langkah yang sama berkali-kali selama/sampai kondisi terpenuhi
-"""
-# Sekuensial
+# Task Joke Programmer
 print('Ibu memberi perintah, "Beli 1 botol susu. Dan jika ada telur, beli juga 6 butir telur"')
 print('Budi menjawab, "Ok"')
 print('Budi pergi ke toko')
