@@ -2,7 +2,7 @@
 Looping program to read a book with while
 """
 book_count = 10
-print('Ibu berkata, "Baca semua bukumu"')
+print('Mom said, "Read all your books"')
 
 read_count = 0
 print(f'The number of books that have been read is {read_count}')
