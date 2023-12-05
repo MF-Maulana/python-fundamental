@@ -2,7 +2,7 @@
 Program perulangan membaca dengan while sampai paham
 """
 book_count = 10
-print('Ibu berkata, "Baca semua bukumu"')
+print('Mom said, "Read all your books until you understand"')
 read_count = 0
 
 understood_count = 0
